@@ -1,4 +1,5 @@
-#Simple Calculator
+Simple Calculator
+
 This is a basic calculator application built using HTML, CSS, and JavaScript. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. The calculator also includes additional functionalities like AC (All Clear) to reset the calculator, and DEL (Delete) to remove the last entered digit or operation.
 
 Features:
